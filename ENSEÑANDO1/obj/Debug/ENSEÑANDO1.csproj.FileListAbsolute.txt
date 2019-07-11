@@ -1,0 +1,6 @@
+c:\users\samv\documents\visual studio 2015\Projects\ENSEÑANDO1\ENSEÑANDO1\bin\Debug\ENSEÑANDO1.exe.config
+c:\users\samv\documents\visual studio 2015\Projects\ENSEÑANDO1\ENSEÑANDO1\bin\Debug\ENSEÑANDO1.exe
+c:\users\samv\documents\visual studio 2015\Projects\ENSEÑANDO1\ENSEÑANDO1\bin\Debug\ENSEÑANDO1.pdb
+c:\users\samv\documents\visual studio 2015\Projects\ENSEÑANDO1\ENSEÑANDO1\obj\Debug\ENSEÑANDO1.exe
+c:\users\samv\documents\visual studio 2015\Projects\ENSEÑANDO1\ENSEÑANDO1\obj\Debug\ENSEÑANDO1.pdb
+C:\Users\samv\Documents\Visual Studio 2015\Projects\ENSEÑANDO1\ENSEÑANDO1\obj\Debug\ENSEÑANDO1.csprojResolveAssemblyReference.cache

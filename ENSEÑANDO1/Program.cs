@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace ENSEÑANDO1
 {
 
-    class miclaseenseñando {
+    class randy {
 
         private int x { get; set; }
         private int y { get; set; }
@@ -33,7 +33,7 @@ namespace ENSEÑANDO1
 
 
 
-            miclaseenseñando c = new miclaseenseñando();
+            randy c = new randy();
             c.setValores(x,y);
 
             int resultado = c.sumar();
